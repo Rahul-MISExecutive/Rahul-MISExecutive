@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-misexecutive&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-misexecutive" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-misexecutive" alt="rahul-misexecutive" /></a> </p>
-
 - 🔭 I’m currently Preparing For an Entry Level **MIS Executive Role.**
 
 - 🌱 I’m currently learning **Advanced Excel (Pivot Tables, VLOOKUP, Dashboards), Basic SQL queries, and Power BI for Data Visualization.**
