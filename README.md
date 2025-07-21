@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Rahul Singh</h1>
 <h3 align="center">An Entry-Level MIS Executive from India</h3>
 
-- I’m currently preparing for an Entry-Level MIS Executive role by building skills in **Excel, SQL, and Power BI.**
+- I’ve Completed My Training In **Excel, SQL, And Power Bi, And I’m Now Ready To Begin My Career As An Entry-level Mis Executive.**
 
-- I’ve Completed My Training In **Excel, Sql, And Power Bi, And I’m Now Ready To Begin My Career As An Entry-level Mis Executive.**
+- Ask me about **Data Cleaning, Reporting, And My Journey from Commerce to Mastering MIS tools like Excel, SQL & Power BI.**
 
 - I’m looking to collaborate on **Data Cleaning, Reporting, And Creating Simple Dashboards.**
 
 - I’m looking for help with **Real-world Excel Case Studies And Sample Datasets To Practice On.**
 
-- Ask me about **Data Cleaning, Reporting, And How I’m Planning My Switch Into The Mis Domain.**
-
-- How to reach me **rs4210707@gmail.com**
+- How to Reach me **rs4210707@gmail.com**
 
 - Fun fact **I Love Observing Trends In Data, And I Can Spend Hours Making Neat Spreadsheets Just For Fun.**
 
